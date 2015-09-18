@@ -33,9 +33,9 @@
     "command-line-args": "^1",
     "config-master": "^1.0.0",
     "console-dope": "~0.3.3",
-    "dmd": "^1",
+    "dmd": "git+https://github.com/daserge/dmd",
     "home-path": "^1",
-    "jsdoc-parse": "^1",
+    "jsdoc-parse": "git+https://github.com/daserge/jsdoc-parse#source-links",
     "object-tools": "^2",
     "stream-connect": "~0.1.0"
   },
